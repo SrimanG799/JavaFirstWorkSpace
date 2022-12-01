@@ -1,0 +1,3 @@
+username=sriman
+jdbcpasward=sql799
+driver=jdbc:localhost:connect:driver

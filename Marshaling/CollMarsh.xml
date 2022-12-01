@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<course>java</course>
+	<id>1</id>
+	<name>sriman</name>
+</student><?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<course>java</course>
+	<id>2</id>
+	<name>shan</name>
+</student><?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<course>java</course>
+	<id>3</id>
+	<name>kumar</name>
+</student>
